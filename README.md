@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is UNKNOWN and I'm Studying from RPSIT</h2>
+<h2 align="left">Hi 👋! My name is UNKNOWN and I'm Studying in RPSIT</h2>
 
 ###
 
