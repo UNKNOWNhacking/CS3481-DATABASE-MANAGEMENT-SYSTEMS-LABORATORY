@@ -58,10 +58,6 @@
 
 ###
 
-<img align="right" height="100" src="https://avatars.githubusercontent.com/u/114736256?s=48&v=4"  />
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/UNKNOWNhacking/UNKNOWNhacking/output/snake.svg" alt="Snake animation" />
