@@ -60,7 +60,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/UNKNOWNhacking/UNKNOWNhacking/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/UNKNOWNhacking/CS3481-DATABASE-MANAGEMENT-SYSTEMS-LABORATORY/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
